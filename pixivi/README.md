@@ -1,5 +1,6 @@
-# PixivCrawler
-一个简单的P站高清大图小爬虫。
+# pixivi
+一个简单的P站小爬虫。
+没有爬取R18的功能。
 
 # Usage
 
@@ -9,9 +10,9 @@
 
 ```
 
-# before you start you must be sure that the lib bs4 and lxml had been installed. eg.
+# 没有安装所需库的话请使用pip下载，列如
 # pip install beautifulsoup4
 # pip install lxml
 
-python main.py
-```
+Run python main.py
+...
