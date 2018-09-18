@@ -10,7 +10,7 @@
 
 ```
 
-# 没有安装所需库的话请使用pip下载，列如
+# pip下载指令如下
 # pip install beautifulsoup4
 # pip install lxml
 
